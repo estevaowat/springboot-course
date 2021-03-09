@@ -5,13 +5,13 @@ API Restful using SpringBoot Framework and MongoDB
 This project followed the steps from this course:
 https://www.udemy.com/course/java-curso-completo/
 
-### Pre-requisites
+## Pre-requisites
 
 - **Java** _v11.0.9.1_
 - **SpringBoot** _v2.4.3_
 - **Mongo** _v4.4.4_
 
-### Concepts learned
+## Concepts learned
 
 - DTO Standard
 - When I should use No-Sql
@@ -21,16 +21,14 @@ https://www.udemy.com/course/java-curso-completo/
 - MongoDB Query Methods
 - Handle runtime exceptions
 
-### Demo
+## Demo
 
 ![Demo image](assets/postman.png "Demo")
 
-### How to run this project
+## How to run this project
 
 ```bash
 git clone https://github.com/estevaowat/springboot-course.git
 cd springboot-course
 ./mvnw spring-boot:run
-
-
 ```
